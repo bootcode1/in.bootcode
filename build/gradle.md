@@ -16,6 +16,12 @@ dependencies {
 }
 ```
 
+| Script Type | File | Delegates to instance of |
+| :--- | :--- | :--- |
+| Inits script | init.gradle | Gradle |
+| Settings script | settings.gradle | Settings |
+| Build script | build.gradle | Project |
+
 * [https://docs.gradle.org/current/dsl/org.gradle.api.Script.html](https://docs.gradle.org/current/dsl/org.gradle.api.Script.html)
 
 ## build.gradle = Project
