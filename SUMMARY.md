@@ -1,11 +1,11 @@
 # Table of contents
 
 * [자료 정리](README.md)
-* [Untitled](untitled.md)
 
-## Build
+## Build Tool
 
 * [Gradle](build/gradle.md)
+* [Gradle 소개](build/gradle-1.md)
 
 ## API Gateway
 
