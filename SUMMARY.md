@@ -5,7 +5,7 @@
 ## Build Tool
 
 * [Gradle 소개](build/gradle-1.md)
-* [Gradle](build/gradle.md)
+* [Gradle Script](build/gradle.md)
 
 ## API Gateway
 

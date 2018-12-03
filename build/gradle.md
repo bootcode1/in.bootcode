@@ -1,4 +1,4 @@
-# Gradle
+# Gradle Script
 
 ## Gradle Script \(init.gradle, settings.gradle, build.gradle ..\)
 
